@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Juan! 👋</h1>
+<h1 align="center">Hi, I'm Juan! 👋🏽</h1>
 
 <h3 align="center">I am a student at the Foundation School of Engineering and Applied Science, Columbia University studying computer science.</h3>
 
