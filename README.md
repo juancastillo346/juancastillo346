@@ -3,10 +3,10 @@
 <h3 align="center">I am a student at the Foundation School of Engineering and Applied Science, Columbia University studying computer science.</h3>
 
 
-<h2>Software Development Projects - JavaScript, HTML, CSS:</h2>
+<h2>Software Development Projects:</h2>
 <ul>
   <li>
-    <strong>Weather App</strong>
+    <strong>Weather App - <i>JavaScript, HTML, CSS</i></strong>
     <ul>
       <li><a href="https://github.com/juancastillo346/Weather-App" target="_blank">Weather App</a></li>
     </ul>
