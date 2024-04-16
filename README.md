@@ -8,7 +8,7 @@
   <li>
     <strong>Weather App</strong>
     <ul>
-      <li><a href="https://github.com/juancastillo346/Weather-App" target="_blank">Link to Project</a></li>
+      <li><a href="https://github.com/juancastillo346/Weather-App" target="_blank">Weather App</a></li>
     </ul>
   </li>
 </ul>
