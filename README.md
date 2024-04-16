@@ -25,11 +25,11 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
   <a href="https://www.arduino.cc/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a>
 </p>
+<!--
+<div style="display: flex; align-items: center; justify-content: space-around; flex-wrap: nowrap;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juancastillo346&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="max-width: 30%; height: auto;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=juancastillo346&show_icons=true&locale=en" alt="GitHub Stats" style="max-width: 30%; height: auto;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=juancastillo346" alt="GitHub Streak" style="max-width: 30%; height: auto;" />
+</div>
+-->
 
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juancastillo346&show_icons=true&locale=en&layout=compact" alt="juancastillo346" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juancastillo346&show_icons=true&locale=en" alt="juancastillo346" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juancastillo346&" alt="juancastillo346" /></p>
