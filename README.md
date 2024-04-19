@@ -8,7 +8,7 @@
   <li>
     <strong>Neural Network - <i>Python</i></strong>
     <ul>
-      <li><a href="https://github.com/juancastillo346/Weather-App" target="_blank">Neural Network</a></li>
+      <li><a href="https://github.com/juancastillo346/Neural-Network" target="_blank">Neural Network</a></li>
     </ul>
   </li>
 
