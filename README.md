@@ -4,24 +4,28 @@
 
 <h2>Software Development Projects:</h2>
 <ul>
+  
   <li>
     <strong>Neural Network - <i>Python</i></strong>
     <ul>
       <li><a href="https://github.com/juancastillo346/Neural-Network" target="_blank">Neural Network</a></li>
     </ul>
   </li>
+  
   <li>
     <strong>Weather App - <i>JavaScript, HTML, CSS</i></strong>
     <ul>
       <li><a href="https://github.com/juancastillo346/Weather-App" target="_blank">Weather App</a></li>
     </ul>
   </li>
+  
   <li>
     <strong>Arduino Projects -<i> C++</i></strong>
     <ul>
       <li><a href="https://github.com/juancastillo346/Crossy-Road" target="_blank">Crossy Road</a></li>
     </ul>
   </li>
+  
 </ul>
 
 <h2>Languages and Tools:</h2>
