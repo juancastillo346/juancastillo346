@@ -8,7 +8,7 @@
   <li>
     <strong>Neural Network - <i>Python</i></strong>
     <ul>
-      <li><a href="https://github.com/juancastillo346/Neural-Network" target="_blank">Neural Network: Hand Digit Recognition</a></li>
+      <li><a href="https://github.com/juancastillo346/Neural-Network-Hand-Digit-Recognition" target="_blank">Neural Network: Hand Digit Recognition</a></li>
     </ul>
   </li>
   
