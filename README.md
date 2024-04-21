@@ -11,6 +11,13 @@
       <li><a href="https://github.com/juancastillo346/Neural-Network-Hand-Digit-Recognition" target="_blank">Neural Network: Hand Digit Recognition</a></li>
     </ul>
   </li>
+
+  <li>
+    <strong>Web Scrapers - <i>Java</i></strong>
+    <ul>
+      <li><a href="https://github.com/juancastillo346/Stock-Web-Scrapper" target="_blank">Stock Web Scraper</a></li>
+    </ul>
+  </li>
   
   <li>
     <strong>Weather App - <i>JavaScript, HTML, CSS</i></strong>
