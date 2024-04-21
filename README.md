@@ -15,7 +15,7 @@
   <li>
     <strong>Web Scrapers - <i>Java</i></strong>
     <ul>
-      <li><a href="https://github.com/juancastillo346/Stock-Web-Scrapper" target="_blank">Stock Web Scraper</a></li>
+      <li><a href="https://github.com/juancastillo346/Stock-Web-Scraper" target="_blank">Stock Web Scraper</a></li>
     </ul>
   </li>
   
