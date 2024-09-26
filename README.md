@@ -32,6 +32,13 @@
       <li><a href="https://github.com/juancastillo346/Crossy-Road" target="_blank">Crossy Road</a></li>
     </ul>
   </li>
+
+  <li>
+    <strong>Password Manager-<i> C#</i></strong>
+    <ul>
+      <li><a href="https://github.com/juancastillo346/Password-Manager" target="_blank">Password Manager</a></li>
+    </ul>
+  </li>
   
 </ul>
 
