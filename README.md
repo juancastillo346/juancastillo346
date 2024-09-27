@@ -13,7 +13,7 @@
   </li>
   
   <li>
-    <strong>Neural Network - <i>Python</i></strong>
+    <strong>Neural Network - <i>Python, Jupyter Notebook</i></strong>
     <ul>
       <li><a href="https://github.com/juancastillo346/Neural-Network-Hand-Digit-Recognition" target="_blank">Neural Network: Hand Digit Recognition</a></li>
     </ul>
