@@ -34,7 +34,7 @@
   </li>
 
   <li>
-    <strong>Password Manager-<i> C#, WPF, XAML</i></strong>
+    <strong>Password Manager-<i> C#, XAML, WPF</i></strong>
     <ul>
       <li><a href="https://github.com/juancastillo346/Password-Manager" target="_blank">Password Manager</a></li>
     </ul>
