@@ -4,6 +4,13 @@
 
 <h2>Software Development Projects:</h2>
 <ul>
+
+  <li>
+    <strong>Password Manager-<i> C#, XAML, WPF</i></strong>
+    <ul>
+      <li><a href="https://github.com/juancastillo346/Password-Manager" target="_blank">Password Manager</a></li>
+    </ul>
+  </li>
   
   <li>
     <strong>Neural Network - <i>Python</i></strong>
@@ -33,12 +40,6 @@
     </ul>
   </li>
 
-  <li>
-    <strong>Password Manager-<i> C#, XAML, WPF</i></strong>
-    <ul>
-      <li><a href="https://github.com/juancastillo346/Password-Manager" target="_blank">Password Manager</a></li>
-    </ul>
-  </li>
   
 </ul>
 
