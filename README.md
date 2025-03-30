@@ -8,7 +8,7 @@
 <li>
     <strong>Juan Castillo Website-<i> Next.js, TS</i></strong>
     <ul>
-      <li><a href="https://github.com/juancastillo346/personal-website" target="_blank">Website</a></li>
+      <li><a href="https://juancastillo-tawny.vercel.app/#about" target="_blank">Website</a></li>
     </ul>
   </li>
 
