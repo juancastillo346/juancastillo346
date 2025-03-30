@@ -6,6 +6,13 @@
 <ul>
 
 <li>
+    <strong>Juan Castillo Website-<i> Next.js, TS</i></strong>
+    <ul>
+      <li><a href="https://github.com/juancastillo346/personal-website" target="_blank">Website</a></li>
+    </ul>
+  </li>
+
+<li>
     <strong>Photography Portfolio Website-<i> HTML, CSS, JS</i></strong>
     <ul>
       <li><a href="https://juancastillo346.github.io/Alexis-Website-v2/" target="_blank">Website</a></li>
