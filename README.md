@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Juan! 👋🏽</h1>
 
-<h3 align="center">I am a student at the Foundation School of Engineering and Applied Science, Columbia University studying computer science.</h3>
+<h3 align="center">I am a student at Columbia University studying Computer Science.</h3>
 
 <h2>Software Development Projects:</h2>
 <ul>
