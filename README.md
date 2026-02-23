@@ -47,6 +47,42 @@
     </a>
   </li>
 
+  <li>
+  <a href="https://github.com/juancastillo346/UI-Final-Project-Code" target="_blank">
+    <strong>UI Messaging App - <i>React, Firebase</i></strong>
+  </a>
+</li>
+
+<li>
+  <a href="https://juancastillo346.github.io/Computational-Sound/" target="_blank">
+    <strong>Virtual Keyboard with Oscillators & Waveforms - <i>JavaScript, Web Audio API</i></strong>
+  </a>
+</li>
+
+<li>
+  <a href="https://fig-magazine-kg8xb9kjb-juan-castillos-projects-e61c6dd0.vercel.app/" target="_blank">
+    <strong>FIG Magazine Fashion Website - <i>React, TypeScript</i></strong>
+  </a>
+</li>
+
+<li>
+  <a href="https://juancastillo346.github.io/Computational-Sound-HW2/" target="_blank">
+    <strong>Computational Sound: Additive, AM & FM Synthesis - <i>JavaScript, HTML</i></strong>
+  </a>
+</li>
+
+<li>
+  <a href="https://github.com/juancastillo346/Spending-Sankey-Diagram" target="_blank">
+    <strong>Spending Visualization Dashboard - <i>Next.js, React, TypeScript, Prisma, Plaid</i></strong>
+  </a>
+</li>
+
+<li>
+  <a href="https://github.com/juancastillo346/JDConstructionWebsite" target="_blank">
+    <strong>JD Construction Business Website - <i>React, TypeScript</i></strong>
+  </a>
+</li>
+  
 </ul>
 
 <h2>Languages and Tools:</h2>
