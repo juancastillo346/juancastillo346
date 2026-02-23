@@ -48,7 +48,7 @@
   </li>
   
   <li>
-    <strong>Arduino Projects -<i> C++</i></strong>
+    <strong>Arduino Crossy Road -<i> C++</i></strong>
     <ul>
       <li><a href="https://github.com/juancastillo346/Crossy-Road" target="_blank">Crossy Road</a></li>
     </ul>
