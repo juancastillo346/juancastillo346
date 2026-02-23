@@ -5,51 +5,48 @@
 <h2>Software Development Projects:</h2>
 <ul>
 
-<li>
-    <strong><a href="https://juancastillo-tawny.vercel.app/#about" target="_blank">Juan Castillo Website-<i> Next.js, TS</i></strong>
-</li>
-
-<li>
-    <strong><a href="https://juancastillo346.github.io/Alexis-Website-v2/" target="_blank">Photography Portfolio Website-<i> HTML, CSS, JS</i></a </strong>
-   
-</li>
-  
   <li>
-    <strong>Password Manager-<i> C#, XAML, WPF</i></strong>
-    <ul>
-      <li><a href="https://github.com/juancastillo346/Password-Manager" target="_blank">Password Manager</a></li>
-    </ul>
-  </li>
-  
-  <li>
-    <strong>Neural Network - <i>Python, Jupyter Notebook</i></strong>
-    <ul>
-      <li><a href="https://github.com/juancastillo346/Neural-Network-Hand-Digit-Recognition" target="_blank">Neural Network: Hand Digit Recognition</a></li>
-    </ul>
+    <a href="https://juancastillo-tawny.vercel.app/#about" target="_blank">
+      <strong>Juan Castillo Website - <i>Next.js, TS</i></strong>
+    </a>
   </li>
 
   <li>
-    <strong>Weather App - <i>JavaScript, HTML, CSS</i></strong>
-    <ul>
-      <li><a href="https://github.com/juancastillo346/Weather-App" target="_blank">Weather App</a></li>
-    </ul>
+    <a href="https://juancastillo346.github.io/Alexis-Website-v2/" target="_blank">
+      <strong>Photography Portfolio Website - <i>HTML, CSS, JS</i></strong>
+    </a>
   </li>
 
   <li>
-    <strong>Web Scrapers - <i>Java</i></strong>
-    <ul>
-      <li><a href="https://github.com/juancastillo346/Stock-Web-Scraper" target="_blank">Stock Web Scraper</a></li>
-    </ul>
-  </li>
-  
-  <li>
-    <strong>Arduino Crossy Road -<i> C++</i></strong>
-    <ul>
-      <li><a href="https://github.com/juancastillo346/Crossy-Road" target="_blank">Crossy Road</a></li>
-    </ul>
+    <a href="https://github.com/juancastillo346/Password-Manager" target="_blank">
+      <strong>Password Manager - <i>C#, XAML, WPF</i></strong>
+    </a>
   </li>
 
-  
+  <li>
+    <a href="https://github.com/juancastillo346/Neural-Network-Hand-Digit-Recognition" target="_blank">
+      <strong>Neural Network: Hand Digit Recognition - <i>Python, Jupyter Notebook</i></strong>
+    </a>
+  </li>
+
+  <li>
+    <a href="https://github.com/juancastillo346/Weather-App" target="_blank">
+      <strong>Weather App - <i>JavaScript, HTML, CSS</i></strong>
+    </a>
+  </li>
+
+  <li>
+    <a href="https://github.com/juancastillo346/Stock-Web-Scraper" target="_blank">
+      <strong>Stock Web Scraper - <i>Java</i></strong>
+    </a>
+  </li>
+
+  <li>
+    <a href="https://github.com/juancastillo346/Crossy-Road" target="_blank">
+      <strong>Arduino Crossy Road - <i>C++</i></strong>
+    </a>
+  </li>
+
 </ul>
 
 <h2>Languages and Tools:</h2>
