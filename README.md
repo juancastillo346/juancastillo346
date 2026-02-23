@@ -6,7 +6,7 @@
 <ul>
 
 <li>
-    <strong>Juan Castillo Website-<i> Next.js, TS</i></strong>
+    <strong><a href="https://juancastillo-tawny.vercel.app/#about" target="_blank">Juan Castillo Website-<i> Next.js, TS</i></strong>
     <ul>
       <li><a href="https://juancastillo-tawny.vercel.app/#about" target="_blank">Website</a></li>
     </ul>
