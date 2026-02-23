@@ -2,89 +2,22 @@
 
 <h3 align="center">I am a student at Columbia University studying Computer Science.</h3>
 
-<h2>Software Development Projects:</h2>
-<ul>
+## Software Development Projects:
 
-  <li>
-    <a href="https://juancastillo-tawny.vercel.app/#about" target="_blank">
-      <strong>Juan Castillo Website - <i>Next.js, TS</i></strong>
-    </a>
-  </li>
-
-  <li>
-    <a href="https://juancastillo346.github.io/Alexis-Website-v2/" target="_blank">
-      <strong>Photography Portfolio Website - <i>HTML, CSS, JS</i></strong>
-    </a>
-  </li>
-
-  <li>
-    <a href="https://github.com/juancastillo346/Password-Manager" target="_blank">
-      <strong>Password Manager - <i>C#, XAML, WPF</i></strong>
-    </a>
-  </li>
-
-  <li>
-    <a href="https://github.com/juancastillo346/Neural-Network-Hand-Digit-Recognition" target="_blank">
-      <strong>Neural Network: Hand Digit Recognition - <i>Python, Jupyter Notebook</i></strong>
-    </a>
-  </li>
-
-  <li>
-    <a href="https://github.com/juancastillo346/Weather-App" target="_blank">
-      <strong>Weather App - <i>JavaScript, HTML, CSS</i></strong>
-    </a>
-  </li>
-
-  <li>
-    <a href="https://github.com/juancastillo346/Stock-Web-Scraper" target="_blank">
-      <strong>Stock Web Scraper - <i>Java</i></strong>
-    </a>
-  </li>
-
-  <li>
-    <a href="https://github.com/juancastillo346/Crossy-Road" target="_blank">
-      <strong>Arduino Crossy Road - <i>C++</i></strong>
-    </a>
-  </li>
-
-  <li>
-  <a href="https://github.com/juancastillo346/UI-Final-Project-Code" target="_blank">
-    <strong>UI Messaging App - <i>React, Firebase</i></strong>
-  </a>
-</li>
-
-<li>
-  <a href="https://juancastillo346.github.io/Computational-Sound/" target="_blank">
-    <strong>Virtual Keyboard with Oscillators & Waveforms - <i>JavaScript, Web Audio API</i></strong>
-  </a>
-</li>
-
-<li>
-  <a href="https://fig-magazine-kg8xb9kjb-juan-castillos-projects-e61c6dd0.vercel.app/" target="_blank">
-    <strong>FIG Magazine Fashion Website - <i>React, TypeScript</i></strong>
-  </a>
-</li>
-
-<li>
-  <a href="https://juancastillo346.github.io/Computational-Sound-HW2/" target="_blank">
-    <strong>Computational Sound: Additive, AM & FM Synthesis - <i>JavaScript, HTML</i></strong>
-  </a>
-</li>
-
-<li>
-  <a href="https://github.com/juancastillo346/Spending-Sankey-Diagram" target="_blank">
-    <strong>Spending Visualization Dashboard - <i>Next.js, React, TypeScript, Prisma, Plaid</i></strong>
-  </a>
-</li>
-
-<li>
-  <a href="https://github.com/juancastillo346/JDConstructionWebsite" target="_blank">
-    <strong>JD Construction Business Website - <i>React, TypeScript</i></strong>
-  </a>
-</li>
-  
-</ul>
-
+- **[Juan Castillo Website](https://juancastillo-tawny.vercel.app/#about)** — _Next.js, TypeScript_
+- **[Spending Visualization Dashboard](https://github.com/juancastillo346/Spending-Sankey-Diagram)** — _Next.js, React, TypeScript, Prisma, Plaid_
+- **[UI Messaging App](https://github.com/juancastillo346/UI-Final-Project-Code)** — _React, Firebase_
+- **[FIG Magazine Fashion Website](https://fig-magazine-kg8xb9kjb-juan-castillos-projects-e61c6dd0.vercel.app/)** — _React, TypeScript_
+- **[JD Construction Business Website](https://github.com/juancastillo346/JDConstructionWebsite)** — _React, TypeScript_
+- **[Photography Portfolio Website](https://juancastillo346.github.io/Alexis-Website-v2/)** — _HTML, CSS, JavaScript_
+- **[Weather App](https://github.com/juancastillo346/Weather-App)** — _JavaScript, HTML, CSS_
+- **[Neural Network: Hand Digit Recognition](https://github.com/juancastillo346/Neural-Network-Hand-Digit-Recognition)** — _Python, Jupyter Notebook_
+- **[Stock Web Scraper](https://github.com/juancastillo346/Stock-Web-Scraper)** — _Java_
+- **[Password Manager](https://github.com/juancastillo346/Password-Manager)** — _C#, XAML, WPF_
+- **[Virtual Keyboard with Oscillators & Waveforms](https://juancastillo346.github.io/Computational-Sound/)** — _JavaScript, Web Audio API_
+- **[Computational Sound: Additive, AM & FM Synthesis](https://juancastillo346.github.io/Computational-Sound-HW2/)** — _JavaScript, HTML_
+- **[Arduino Crossy Road](https://github.com/juancastillo346/Crossy-Road)** — _C++_
+- 
 <h2>Languages and Tools:</h2>
 
 <p>
@@ -97,14 +30,3 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a>
 </p>
-
-
-<!--
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=juancastillo346&label=Profile%20views&color=0e75b6&style=flat" alt="juancastillo346" /> </p>
-<div style="display: flex; align-items: center; justify-content: space-around; flex-wrap: nowrap;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juancastillo346&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="max-width: 30%; height: auto;" />
-  <img src="https://github-readme-stats.vercel.app/api?username=juancastillo346&show_icons=true&locale=en" alt="GitHub Stats" style="max-width: 30%; height: auto;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=juancastillo346" alt="GitHub Streak" style="max-width: 30%; height: auto;" />
-</div>
--->
-
