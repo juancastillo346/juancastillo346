@@ -7,17 +7,12 @@
 
 <li>
     <strong><a href="https://juancastillo-tawny.vercel.app/#about" target="_blank">Juan Castillo Website-<i> Next.js, TS</i></strong>
-    <ul>
-      <li><a href="https://juancastillo-tawny.vercel.app/#about" target="_blank">Website</a></li>
-    </ul>
-  </li>
+</li>
 
 <li>
-    <strong>Photography Portfolio Website-<i> HTML, CSS, JS</i></strong>
-    <ul>
-      <li><a href="https://juancastillo346.github.io/Alexis-Website-v2/" target="_blank">Website</a></li>
-    </ul>
-  </li>
+    <strong><a href="https://juancastillo346.github.io/Alexis-Website-v2/" target="_blank">Photography Portfolio Website-<i> HTML, CSS, JS</i></a </strong>
+   
+</li>
   
   <li>
     <strong>Password Manager-<i> C#, XAML, WPF</i></strong>
