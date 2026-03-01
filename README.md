@@ -17,6 +17,8 @@
 - **[Virtual Keyboard with Oscillators & Waveforms](https://juancastillo346.github.io/Computational-Sound/)** — _JavaScript, Web Audio API_
 - **[Computational Sound: Additive, AM & FM Synthesis](https://juancastillo346.github.io/Computational-Sound-HW2/)** — _JavaScript, HTML_
 - **[Arduino Crossy Road](https://github.com/juancastillo346/Crossy-Road)** — _C++_
+- **[Focus Timer](https://github.com/juancastillo346/PomodoroBar)** — _Swift_
+
 
 <h2>Languages, Frameworks, and Tools:</h2>
 
