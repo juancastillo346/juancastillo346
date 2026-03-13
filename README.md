@@ -4,7 +4,7 @@
 
 ## Software Development Projects:
 
-- **[Juan Castillo Website](https://juancastillo-tawny.vercel.app/#about)** — _Next.js, TypeScript_
+- **[Juan Castillo Website](https://juancastillo-tawny.vercel.app/#about)** — _Next.js, TypeScript, JavaScript_
 - **[Spending Visualization Dashboard](https://github.com/juancastillo346/Spending-Sankey-Diagram)** — _Next.js, React, TypeScript, Prisma, Plaid_
 - **[UI Messaging App](https://github.com/juancastillo346/UI-Final-Project-Code)** — _React, Firebase, Next.Js_
 - **[FIG Magazine Fashion Website](https://fig-magazine-kg8xb9kjb-juan-castillos-projects-e61c6dd0.vercel.app/)** — _React, TypeScript_
