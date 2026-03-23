@@ -14,7 +14,7 @@
 - **[Neural Network: Hand Digit Recognition](https://github.com/juancastillo346/Neural-Network-Hand-Digit-Recognition)** — _Python, Jupyter Notebook_
 - **[Stock Web Scraper](https://github.com/juancastillo346/Stock-Web-Scraper)** — _Java_
 - **[Password Manager](https://github.com/juancastillo346/Password-Manager)** — _C#, XAML, WPF_
-- **[Virtual Keyboard with Oscillators & Waveforms](https://juancastillo346.github.io/Computational-Sound/)** — _JavaScript
+- **[Virtual Keyboard with Oscillators & Waveforms](https://juancastillo346.github.io/Computational-Sound/)** — _JavaScript_
 - **[Computational Sound: Additive, AM & FM Synthesis](https://juancastillo346.github.io/Computational-Sound-HW2/)** — _JavaScript, HTML_
 - **[Arduino Crossy Road](https://github.com/juancastillo346/Crossy-Road)** — _C++_
 - **[Focus Timer](https://github.com/juancastillo346/PomodoroBar)** — _Swift_
