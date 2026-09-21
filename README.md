@@ -8,7 +8,7 @@
 - **[Spending Visualization Dashboard](https://github.com/juancastillo346/Spending-Sankey-Diagram)** — _Next.js, React, TypeScript, Prisma, Plaid Banking_
 - **[Market Analysis & Portfolio Optimization](https://github.com/juancastillo346/market-analysis)** — _Python, Jupyter Notebook, NumPy, Pandas, SciPy, Matplotlib, yFinance_
 - **[Messaging App](https://github.com/juancastillo346/UI-Final-Project-Code)** — _React, Firebase, Next.Js_
-- **[FIG Magazine Fashion Website](https://fig-magazine-kg8xb9kjb-juan-castillos-projects-e61c6dd0.vercel.app/)** — _React, TypeScript_
+- **[FIG Magazine Fashion Website](https://fig-magazine.vercel.app/)** — _React, TypeScript_
 - **[JD Construction Business Website](https://github.com/juancastillo346/JDConstructionWebsite)** — _React, TypeScript_
 - **[Photography Portfolio Website](https://juancastillo346.github.io/Alexis-Website-v2/)** — _HTML, CSS, JavaScript_
 - **[Weather App](https://github.com/juancastillo346/Weather-App)** — _JavaScript, HTML, CSS_
